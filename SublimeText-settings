@@ -1,0 +1,42 @@
+{
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"*.css.map",
+		"*.js.map",
+		"*/*source-map.js",
+		"*.min.js",
+		"min-*.js",
+		"min-*.css",
+		"*.min.css"
+	],
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
+}
+
