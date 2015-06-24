@@ -1,0 +1,4 @@
+[
+  { "keys": ["option+tab"], "command": "reindent"}
+]
+
