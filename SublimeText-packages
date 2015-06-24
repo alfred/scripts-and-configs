@@ -1,0 +1,18 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"Handlebars",
+		"jQuery",
+		"JsFormat",
+		"JSHint",
+		"LESS",
+		"Package Control",
+		"SCSS",
+		"Solarized Color Scheme"
+	]
+}
+
