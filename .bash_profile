@@ -20,3 +20,5 @@ alias gb='git branch'
 alias gl='git log'
 alias gd='git diff'
 alias gp='git push'
+alias gcd='git checkout develop'
+
