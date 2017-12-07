@@ -22,3 +22,11 @@ alias gd='git diff'
 alias gp='git push'
 alias gcd='git checkout develop'
 
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+test -e "${HOME}/.iterm2_shell_integration.bash" && source "${HOME}/.iterm2_shell_integration.bash"
+
+
+export PATH="/usr/local/sbin:$PATH"
+
+echo "Now using node $(nvm current) (npm v$(npm -v))"
